@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.js": "/bitcoin-react/static/js/main.0332669c.js",
+    "main.css": "/bitcoin-react/static/css/main.b659bcf5.css",
+    "main.js": "/bitcoin-react/static/js/main.a3bd6d5a.js",
     "index.html": "/bitcoin-react/index.html",
-    "main.0332669c.js.map": "/bitcoin-react/static/js/main.0332669c.js.map"
+    "main.b659bcf5.css.map": "/bitcoin-react/static/css/main.b659bcf5.css.map",
+    "main.a3bd6d5a.js.map": "/bitcoin-react/static/js/main.a3bd6d5a.js.map"
   },
   "entrypoints": [
-    "static/js/main.0332669c.js"
+    "static/css/main.b659bcf5.css",
+    "static/js/main.a3bd6d5a.js"
   ]
 }
